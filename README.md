@@ -76,7 +76,7 @@ I am a Data Analyst aspirant with a strong foundation in statistical reasoning a
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="www.linkedin.com/in/nagasrisirimakineni">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </div>
