@@ -60,7 +60,7 @@ I am a Data Analyst aspirant with a strong foundation in statistical reasoning a
     <td>
       <b>📊 Power BI: Executive Dashboard</b><br>
       Developed an end-to-end interactive dashboard. Automated data refresh and used DAX for complex KPIs.<br>
-      <a href=""C:\Users\91852\OneDrive\Documents\weather data project.pbix"">📂 View Project</a>
+      <a href="weather data project.pbix">📂 View Project</a>
     </td>
     <td>
       <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/PowerBI.gif" width="200" />
